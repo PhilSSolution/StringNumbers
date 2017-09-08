@@ -1,0 +1,8 @@
+C:\GitHub\StringNumbers\StringNumbers\bin\Debug\StringNumbers.dll
+C:\GitHub\StringNumbers\StringNumbers\bin\Debug\StringNumbers.pdb
+C:\GitHub\StringNumbers\StringNumbers\bin\Debug\nunit.framework.dll
+C:\GitHub\StringNumbers\StringNumbers\bin\Debug\nunit.framework.xml
+C:\GitHub\StringNumbers\StringNumbers\obj\Debug\StringNumbers.csprojResolveAssemblyReference.cache
+C:\GitHub\StringNumbers\StringNumbers\obj\Debug\StringNumbers.dll
+C:\GitHub\StringNumbers\StringNumbers\obj\Debug\StringNumbers.pdb
+C:\GitHub\StringNumbers\StringNumbers\obj\Debug\StringNumbers.csproj.CoreCompileInputs.cache
